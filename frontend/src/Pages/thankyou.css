@@ -1,0 +1,10 @@
+.ThankYou{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.thank_you{
+    justify-content: center;
+    align-items: center;
+}
